@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manttech
-- 👀 I’m interested in learning engineering and CNC
+- 👀 I’m interested in engineering and CNC
 - 🌱 I’m currently learning G-Code 
 - 📫 How to reach me: mantecah@gmail.com
 
